@@ -1,0 +1,51 @@
+body {
+    
+
+}
+h1 {
+    color: #EA9800;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 64;
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #29617a;
+    font-size: 24;
+
+}
+
+
+.faq {
+    background-color: white;
+    margin: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #29617a;
+}
+
+.text-primary {
+    color: #6c9108!important;
+}
+
+div p{
+    flex-direction: row;
+}
+
+.jumbotron {
+    background-image: url("https://as1.ftcdn.net/v2/jpg/02/97/67/70/1000_F_297677001_zX7ZzRq8DObUV5IWTHAIhAae6DuiEQh4.jpg");
+    background-size: cover;
+}
+
+.container h1 {
+    margin-top: 2em;
+    text-align: center;
+
+}
+
+#subheading {
+    color: whitesmoke;
+    text-align: center;
+}
+
+.nav-link {
+    color: #29617a;
+}
